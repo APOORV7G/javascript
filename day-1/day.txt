@@ -1,0 +1,4 @@
+Day-1 spent 30 minutes 
+Watched the first 5 time stamps 
+easy now
+Takeaway:- write script import after body
