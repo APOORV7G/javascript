@@ -1,0 +1,21 @@
+Basic stuff today 
+Watched 
+
+useful string methods 
+string slicing 
+method chaining 
+if statements 
+checked property 
+switches
+AND OR logical operators
+NOT logical operator 
+while loops  
+do while loops 
+for loops 
+break and continue statements 
+nested loops 
+functions 
+return statement 
+ternary operator 
+var vs let 
+template literals 
