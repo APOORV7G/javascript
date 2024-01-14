@@ -1,0 +1,3 @@
+Learned today 
+
+-format currency (toLocaleString())
